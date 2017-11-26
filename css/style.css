@@ -6,6 +6,34 @@
  * Made By MaterializeCSS.com
  */
 
+.theme-accent-text {
+  color: #FB6A64;
+}
+
+.theme-light {
+  background-color: #D8E1DB;
+}
+
+.theme-normal {
+  background-color: #B5C5C7;
+}
+
+.theme-dark {
+  background-color: #698184;
+}
+
+.theme-accent-light {
+  background-color: #FEC8C7;
+}
+
+.theme-accent-normal {
+  background-color: #FB6A64;
+}
+
+.theme-accent-dark {
+  background-color: #654756;
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -59,7 +87,7 @@ p {
 }
 
 .icon-block {
-  padding: 0 15px;
+  padding: 15px;
 }
 .icon-block .material-icons {
   font-size: inherit;
