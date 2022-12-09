@@ -5,6 +5,21 @@
  *
  * Made By MaterializeCSS.com
  */
+/* 
+ @font-face {
+  font-family: raleway;
+  src: url(fonts/Raleway/Raleway-VariableFont_wght.ttf);
+} */
+
+ h1 {
+  font-family: 'Raleway', serif;
+ }
+ .brand-logo {
+  font-family: 'Raleway', serif;
+ }
+ h2 {
+   font-family: 'Dancing Script', serif;
+ }
 
 .theme-accent-text {
   color: #FB6A64;
@@ -95,4 +110,12 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+.bullet-list {
+  padding-left: 3em !important;
+}
+
+.bullet-list li {
+  list-style-type: disc !important;
 }
